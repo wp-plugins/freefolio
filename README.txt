@@ -1,5 +1,5 @@
 === Freefolio ===
-Contributors: mattsimo, chriswallace
+Contributors: mattsimo, chriswallace, andrewtaylor-1, upthemes
 Donate link: https://upthemes.com/themes/creative/
 Tags: portfolio,dribbble,post types
 Requires at least: 3.8
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The best way to get up and running with a portfolio on your very own WordPress website.
 
 == Description ==
+
+Freefolio adds a portfolio to your WordPress website
 
 * Adds a portfolio post type (compatible with Jetpack)
 * Adds a Project Type taxonomy (works like categories)
