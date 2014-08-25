@@ -17,7 +17,7 @@ The best way to get up and running with a portfolio on your very own WordPress w
 * Adds a Project Tag taxonomy (works like tags)
 * Syncs your Dribbble shots to WordPress (imports old shots as well)
 
-=== Credits ===
+= Credits =
 
 - The amazing team at [automattic.com](http://automattic.com/) for [jetpack](http://jetpack.me/) and, specifically, the Jetpack Portfolio post type.
 - [Tammy Hart](http://www.tammyhartdesigns.com/) for http://zurb.com/forrst/posts/Dribbble_to_WordPress-wZv
