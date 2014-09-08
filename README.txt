@@ -1,5 +1,5 @@
 === Freefolio ===
-Contributors: mattsimo, chriswallace, andrewtaylor-1, upthemes
+Contributors: mattsimo, chriswallace, andrewtaylor-1, andrew.taylor, upthemes
 Donate link: https://upthemes.com/themes/creative/
 Tags: portfolio,dribbble,post types
 Requires at least: 3.8
