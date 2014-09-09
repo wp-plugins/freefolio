@@ -100,6 +100,14 @@ Shortcode example:
 
 [portfolio display_types=true display_tags=false include_type=ui-design,app-design columns=3 showposts=10]
 
+== Screenshots ==
+
+1. Single portfolio/project view.
+2. Portfolio shortcode view.
+3. Editor shortcode example.
+4. Dribbble import utility.
+5. Portfolio list view.
+
 == Changelog ==
 
 = 1.1.0 =
