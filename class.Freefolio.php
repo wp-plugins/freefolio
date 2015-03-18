@@ -406,7 +406,7 @@ class Freefolio {
       return $content;
 
     if( ! current_theme_supports( 'jetpack-portfolio' ) || ( current_theme_supports( 'jetpack-portfolio' ) && ! $_wp_theme_features['jetpack-portfolio'][0]['has-featured-image'] ) )
-      $content = get_the_post_thumbnail( $post->ID, 'original' ) . $content;
+      $content = get_the_post_thumbnail( $post->ID, apply_filters( 'freefolio_featured_image_size', 'original' ) ) . $content;
 
     return $content;
   }
